@@ -25,3 +25,6 @@ The data or text under this license is therefore called the object.
     2.The liability of the licensor
     2.1.The licensor is liable only for what himself wrote regarding juridical issues related to injury, racism or offense and any other crimes.
     2.2.The licensor is not liable for the content that was edited by third parties and the liability for such cases falls over the licensee as described in 1.3.5.
+    3.This clause voids everything from 1.2 to the end of the clause 1 except 1.6. (Flag clause remove before using unless you wish this to become true)
+    4.This clause voids the clause 1.4 forbidding the redistribution of licensor copyrighted material. (Flag clause remove before using unless you wish this to become true).
+    5.The licensor waives form his copyright entirely and this entire license is voided except for the clause 2.
